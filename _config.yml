@@ -16,10 +16,10 @@
 title: 杜旭冲（Xuchong Du） blog
 email: duxuchong0@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  welcome to my blog. I am computer science student study in Germany.
-  I interested in altificial intelligency , and also curious about paradigm and model in other subject.
+  welcome to my blog. I am computer science student study in Germany.<br>
+  I interested in altificial intelligency , and also curious about paradigm and model in other subject.<br>
   What I pursue: Know something about everything and know everything about something.
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "/blog" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll

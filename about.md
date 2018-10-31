@@ -4,15 +4,14 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+welcome to my blog. I am computer science student study in Germany.
+ I interested in altificial intelligency , and also curious about paradigm and model in other subject.
+  What I pursue: Know something about everything and know everything about something.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+My email: duxuchong0@gmail.com
+My cv: [cv](https://duxuchong.github.io/)
+My GitHub: [DUXUCHONG](https://github.com/DUXUCHONG)
+My blog: [blog](https://duxuchong.github.io/blog/)
 
 
 [jekyll-organization]: https://github.com/jekyll
