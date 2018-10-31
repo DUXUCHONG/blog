@@ -5,3 +5,6 @@
 layout: home
 ---
 
+welcome to my blog. I am computer science student study in Germany.  
+I interested in altificial intelligency , and also curious about paradigm and model in other subject.  
+What I pursue: Know something about everything and know everything about something.  
